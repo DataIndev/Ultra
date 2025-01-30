@@ -279,7 +279,7 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base_d0da3e.size24_fb468f,
     color: white;
 }
 
-#app-mount .unread_d8bfb3::after {
+#app-mount .unread__2ea32::after {
     content: "";
     position: absolute;
     top: -18px;
@@ -393,7 +393,7 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base_d0da3e.size24_fb468f,
     box-shadow: 0 0 40px 4px var(--brand-experiment);
 }
 
-.unread_d8bfb3 {
+.unread__2ea32 {
     background-color: var(--brand-experiment);
     box-shadow: 0 0 20px 4px var(--brand-experiment);
     border-radius: 50%;
@@ -403,7 +403,7 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base_d0da3e.size24_fb468f,
     height: 5px;
 }
 
-.typeThread_d8bfb3 .unread_d8bfb3 {
+.typeThread_d8bfb3 .unread__2ea32 {
     left: 6px;
 }
 
